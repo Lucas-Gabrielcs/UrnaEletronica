@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.c++ linguist-language=c
+*.c++ linguist-language=C
