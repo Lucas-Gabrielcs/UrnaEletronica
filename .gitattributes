@@ -1,3 +1,2 @@
 $ cat .gitattributes
-* linguist-vendored
 *.c++ linguist-language=C.
